@@ -21,3 +21,7 @@
 
 ## 5 Mejorando HomePage
 ![alt text](docs/evidencia-6.png)
+
+## 6 Visualización minimalista de detalles de película 
+
+![alt text](docs/evidencia-7.png)
