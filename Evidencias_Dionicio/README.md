@@ -11,6 +11,8 @@
 
 ![alt text](docs3/evid4.1.png)
 
+![alt text](docs3/homepage.png)
+
 # 3 Creación de layout
 
 ![alt text](docs3/evid4.png)
