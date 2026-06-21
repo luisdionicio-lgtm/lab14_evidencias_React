@@ -3,10 +3,10 @@
 ## 1 Creación de proyecto e instalación de shadcn
 
 ![alt text](docs/evidencia-1.png)
-
-## 2 Creación de rutas
 ![alt text](docs/evidencia-2.png)
 
+
+## 2 Creación de rutas
 
 ![alt text](docs/evidencia-3.png)
 
