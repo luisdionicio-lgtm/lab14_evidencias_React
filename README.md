@@ -53,4 +53,22 @@
 
 
 
-# EVIDENCIAS JOSE SOTELO:
+# EVIDENCIAS Diego SOTELO:
+
+## 1. Creación de proyecto e instalación de shadcn
+
+![Capítulo 1](./Evidencias_Sotelo/docs/cap1.png)
+
+## 2. Creación de rutas
+
+![Capítulo 2](./Evidencias_Sotelo/docs/cap2.png)
+
+![Capítulo 2.1](./Evidencias_Sotelo/docs/cap2.1.png)
+
+## 3. Creación de layout
+
+![Capítulo 3](./Evidencias_Sotelo/docs/cap3.png)
+
+## 4. Homepage
+
+![Capítulo 4](./Evidencias_Sotelo/docs/cap4.png)
